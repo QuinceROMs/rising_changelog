@@ -6,6 +6,7 @@ RisingOS Revived - device tree changelog
 - dolby: Imported Simplified Chinese translation
 - vintf: Update oplus charging service.
 
+
 2025.08.21
 ----------
 + UDFPS:
@@ -15,6 +16,7 @@ RisingOS Revived - device tree changelog
 - sepolicy: qti: Label /dev/oplus_chg & update rules for charger AIDL
 - oplus: Reverted the usage of vendor_sysfs_soc_sensitive.
 
+
 2025.08.20
 ----------
 - Migrated to AIDL LiveDisplay HAL
@@ -22,6 +24,7 @@ RisingOS Revived - device tree changelog
 - overlay: qssi: Removed deprecated telephony overlays
 - sepolicy: qti: Given rw perms to /proc/qcom_flash for camera hal
 - kernel-headers: Added PANEL_IOCTL_{GET,SET}_CABC_STATUS.
+
 
 2025.08.15
 ----------
