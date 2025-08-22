@@ -1,6 +1,11 @@
 RisingOS Revived - device tree changelog
 ========================================
 
+2025.08.22
+----------
+- dolby: Imported Simplified Chinese translation
+- vintf: Update oplus charging service.
+
 2025.08.21
 ----------
 + UDFPS:
