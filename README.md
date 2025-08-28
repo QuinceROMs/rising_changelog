@@ -1,15 +1,23 @@
 RisingOS Revived - device tree changelog
 ========================================
 
+2025.08.28
+----------
+- improve vibration and haptics
+- switch to reference fastboot AIDL service
+- fix alarm & notification sound not playing while using BT earphones
+- enable ADPF CPU hints for improved UI performance and responsiveness
+- add oplus performance HAL service
+- import alert slider support from YAAP's hardware/oplus
+- kernel defconfig: add conservative and ondemand governors
+- add many new rules and sepolicy fixes
+- few other minor changes.
+
+
 2025.08.22
 ----------
 - dolby: Imported Simplified Chinese translation
-- vintf: Update oplus charging service
-- aidl: sensors: Return early if nothing is displayed over the light sensor
-- aidl: qti_vibrator: effect: import richtap effects
-- sepolicy: qti: Let qti secure_element getattr /dev/nq-nci
-- sepolicy: qti: Allow mediaserver to find media_quality_service
-- sepolicy: Fix additional HAL service denials.
+- vintf: Update oplus charging service.
 
 
 2025.08.21
