@@ -3,13 +3,14 @@ RisingOS Revived - device tree changelog
 
 2025.08.28
 ----------
-- improve vibration and haptics
-- switch to reference fastboot AIDL service
 - fix alarm & notification sound not playing while using BT earphones
 - enable ADPF CPU hints for improved UI performance and responsiveness
-- add oplus performance HAL service
+- make adaptive brightness more stable in dim environment
+- improve vibration and haptics
 - import alert slider support from YAAP's hardware/oplus
 - kernel defconfig: add conservative and ondemand governors
+- switch to reference fastboot AIDL service
+- add oplus performance HAL service
 - add many new rules and sepolicy fixes
 - few other minor changes.
 
