@@ -1,6 +1,19 @@
 RisingOS Revived - device tree changelog
 ========================================
 
+2025.09.09
+----------
+- fixes in sensor support
+- imported sensor configuration from OOS 12.1 H.41
+- fixes in the sepolicy rules
+- fixes in LiveDisplay
+- changes to the Oplus charger interface (AIDL)
+- fixed the Vendor ID list to work correctly with QPST on Windows
+- Dolby: fixed QS tile support and switched layout to Material Expressive
+- imported Polish carrier configurations from Xiaomi 15 Ultra HyperOS 2.0.204.0.VOAEUXM
+- few other minor changes.
+
+
 2025.08.28
 ----------
 - fix alarm & notification sound not playing while using BT earphones
