@@ -1,7 +1,7 @@
 RisingOS Revived - device tree changelog
 ========================================
 
-2025.09.09
+2025.09.13
 ----------
 - improved visual smoothness by adjusting frame timing, reducing stuttering in games
 - enabled composition caching for better UI performance and lower power consumption
