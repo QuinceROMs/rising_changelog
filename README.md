@@ -9,6 +9,7 @@ RisingOS Revived - device tree changelog
 - improved frame update responsiveness and display performance
 - optimized the dext2oat application compilation process during system configuration
 - improved Bluetooth connectivity for multiple simultaneous BLE devices
+- reverted switched layout to Material Expressive
 - minor sepolicy fixes.
 
 
