@@ -1,6 +1,19 @@
 RisingOS Revived - device tree changelog
 ========================================
 
+2025.09.23
+----------
+- moved back sensors to sm8150-common tree
+- back to Ortus Launcher
+- Dolby: migrated MainSwitchBar and Switch to Material3
+- KeyHandler: fixed default values for alert slider
+- removed even more Google packages to save space and memory
+- implemented torch light control
+- disabled VSync for CPU rendered apps to improve performance
+- synced kernel source with crDroid
+- misc minor fixes.
+
+
 2025.09.13
 ----------
 - improved visual smoothness by adjusting frame timing, reducing stuttering in games
