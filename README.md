@@ -1,6 +1,12 @@
 RisingOS Revived - device tree changelog
 ========================================
 
+2025.09.27
+----------
+- refactored hardware/oplus repo to remove proximity sensor blinking
+- Bluetooth: changed Vendor ID as QTI for device ID profile.
+
+
 2025.09.23
 ----------
 - moved back sensors to sm8150-common tree
