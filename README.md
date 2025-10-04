@@ -1,6 +1,14 @@
 RisingOS Revived - device tree changelog
 ========================================
 
+2025.10.04
+----------
+- enabled Bluetooth AVRCP controller profile
+- compiled using Clang r547379 (v20.0.0)
+- several sepolicy fixes in hardware/oplus and common tree
+- a few minor fixes.
+
+
 2025.09.27
 ----------
 - refactored hardware/oplus repo to remove proximity sensor blinking
